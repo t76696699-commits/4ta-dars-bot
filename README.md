@@ -26,7 +26,7 @@ async def main():
         # Chat funksiyasini chaqirish
         answer, memory = await chat_with_memory(q, memory, mock_index)
         print(f"Javob: {answer}\n")
-
+https://github.com/t76696699/4ta-dars-bot
 
 if __name__ == "__main__":
     asyncio.run(main())
